@@ -7,7 +7,6 @@ import numpy as np
 import json
 from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode, DataReturnMode, JsCode
 import streamlit.components.v1 as components
-import matplotlib.pyplot as plt
 
 st.set_page_config(layout="wide")
 
